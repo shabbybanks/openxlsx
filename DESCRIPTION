@@ -17,7 +17,7 @@ Description: Simplifies the creation of Excel .xlsx files by providing a high
 License: GPL-3
 LinkingTo: Rcpp
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.2.2)
 Imports:
     methods,
     Rcpp,
